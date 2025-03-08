@@ -28,7 +28,7 @@ export const PLAN_DETAILS: Record<LocalPlanType, PlanDetails> = {
   [VALID_PLANS.DAYS_90]: {
     name: VALID_PLANS.DAYS_90,
     durationDays: 90,
-    checkoutId: 'PPU38CPIEMR',  // ID correto do plano de 90 dias
+    checkoutId: 'PPU38CPIR95',  // ID atualizado do plano de 90 dias
     price: 39.90,
     features: ['Acesso completo por 3 meses', 'Suporte prioritário']
   },
